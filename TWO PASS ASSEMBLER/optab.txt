@@ -1,0 +1,6 @@
+LDA     00
+ADD     01
+STA     02
+SUB     03
+JNZ     04
+MUL     05
